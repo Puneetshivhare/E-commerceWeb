@@ -6,7 +6,7 @@ console.log(firstfavnum * secondfavnum);
 console.log(firstfavnum / secondfavnum);
 console.log(firstfavnum % secondfavnum);
 
-Falsy, -> false, null, undefined,0,-0, NAN, '', "",(empty quotes)
+// Falsy, -> false, null, undefined,0,-0, NAN, '', "",(empty quotes)
 
 let isjsprogrammingLanguage= 10;
 let isjsHard= undefined;
@@ -23,7 +23,7 @@ console.log(firstfavnum===secondfavnum);
 console.log(firstfavnum!==secondfavnum);
 console.log(firstfavnum==secondfavnum);
 
---------------------------------------------------
+// --------------------------------------------------
 String
 concatenation== adding both string
 let favfirstactor= "luffy";
@@ -98,5 +98,5 @@ console.log(car.type);
 car.wheel= "4";
 console.log(car);
 
-Funtion
+// Funtion
 
